@@ -1,0 +1,9 @@
+F:\vs\repos\IsJson\IsJson\bin\Debug\netstandard2.0\IsJson.deps.json
+F:\vs\repos\IsJson\IsJson\bin\Debug\netstandard2.0\IsJson.dll
+F:\vs\repos\IsJson\IsJson\bin\Debug\netstandard2.0\IsJson.pdb
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.csprojAssemblyReference.cache
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.csproj.CoreCompileInputs.cache
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.AssemblyInfoInputs.cache
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.AssemblyInfo.cs
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.dll
+F:\vs\repos\IsJson\IsJson\obj\Debug\netstandard2.0\IsJson.pdb
